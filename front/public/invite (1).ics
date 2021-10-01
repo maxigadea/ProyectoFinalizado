@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Central America Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=maxigadea1998@gmail.com;RSVP=TRUE:mailto:maxigadea1998@gmail.co
+	m
+ATTENDEE;CN="Oscar Loría";RSVP=TRUE:mailto:oscar.loria@decimoinc.com
+ATTENDEE;CN='juan.navarro';ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:juan.navar
+	ro@decimoinc.com
+CLASS:PUBLIC
+CREATED:20210927T211859Z
+DESCRIPTION:Meysi Arias is inviting you to a scheduled Zoom meeting. \n\nJo
+	in Zoom Meeting \nhttps://us02web.zoom.us/j/85042898871?pwd=M3JOcFdFWjBVRW
+	g5a05ISTgzdnpFdz09 \n\nMeeting ID: 850 4289 8871 \nPasscode: 012829 \nOne 
+	tap mobile \n+13462487799\,\,85042898871# US (Houston) \n+16699006833\,\,8
+	5042898871# US (San Jose) \n\nDial by your location \n        +1 346 248 7
+	799 US (Houston) \n        +1 669 900 6833 US (San Jose) \n        +1 929 
+	436 2866 US (New York) \n        +1 253 215 8782 US (Tacoma) \n        +1 
+	301 715 8592 US (Washington DC) \n        +1 312 626 6799 US (Chicago) \nM
+	eeting ID: 850 4289 8871 \nFind your local number: https://us02web.zoom.us
+	/u/kbSkowZPig \n\n \n\n
+DTEND;TZID="Central America Standard Time":20210930T120000
+DTSTAMP:20210927T211859Z
+DTSTART;TZID="Central America Standard Time":20210930T113000
+LAST-MODIFIED:20210927T211859Z
+LOCATION:https://us02web.zoom.us/j/85042898871?pwd=M3JOcFdFWjBVRWg5a05ISTgz
+	dnpFdz09
+ORGANIZER;CN="Meysi Arias":mailto:meysi.arias@decimoinc.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es-us:Entrevista Developer Maximiliado
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000090E527EBB2B3D701000000000000000
+	010000000CFAE97A6A66ECB449378D87BFD85B78C
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=iso-8859-1"><meta name=Generator c
+	ontent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definiti
+	ons */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 
+	6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 
+	3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNor
+	mal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-ser
+	if\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:blue\
+	;\n	text-decoration:underline\;}\nspan.EstiloCorreo18\n	{mso-style-type:pe
+	rsonal-compose\;\n	font-family:"Arial"\,sans-serif\;}\n.MsoChpDefault\n	{m
+	so-style-type:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{s
+	ize:8.5in 11.0in\;\n	margin:70.85pt 85.05pt 70.85pt 85.05pt\;}\ndiv.WordSe
+	ction1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:sh
+	apedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte 
+	mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1"
+	 />\n</o:shapelayout></xml><![endif]--></head><body lang=ES-CR link=blue v
+	link=purple style='word-wrap:break-word'><div class=WordSection1><p><span 
+	style='font-family:"Arial"\,sans-serif'>Meysi Arias is inviting you to a s
+	cheduled Zoom meeting.</span> <o:p></o:p></p><p><span style='font-family:"
+	Arial"\,sans-serif'>Join Zoom Meeting</span> <br><span style='font-family:
+	"Arial"\,sans-serif'><a href="https://us02web.zoom.us/j/85042898871?pwd=M3
+	JOcFdFWjBVRWg5a05ISTgzdnpFdz09">https://us02web.zoom.us/j/85042898871?pwd=
+	M3JOcFdFWjBVRWg5a05ISTgzdnpFdz09</a></span> <o:p></o:p></p><p><span style=
+	'font-family:"Arial"\,sans-serif'>Meeting ID: 850 4289 8871</span> <br><sp
+	an style='font-family:"Arial"\,sans-serif'>Passcode: 012829</span> <br><sp
+	an style='font-family:"Arial"\,sans-serif'>One tap mobile</span> <br><span
+	 style='font-family:"Arial"\,sans-serif'>+13462487799\,\,85042898871# US (
+	Houston)</span> <br><span style='font-family:"Arial"\,sans-serif'>+1669900
+	6833\,\,85042898871# US (San Jose)</span> <o:p></o:p></p><p><span style='f
+	ont-family:"Arial"\,sans-serif'>Dial by your location</span> <br><span sty
+	le='font-family:"Arial"\,sans-serif'>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&n
+	bsp\;&nbsp\; +1 346 248 7799 US (Houston)</span> <br><span style='font-fam
+	ily:"Arial"\,sans-serif'>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;
+	 +1 669 900 6833 US (San Jose)</span> <br><span style='font-family:"Arial"
+	\,sans-serif'>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 929 436
+	 2866 US (New York)</span> <br><span style='font-family:"Arial"\,sans-seri
+	f'>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 253 215 8782 US (T
+	acoma)</span> <br><span style='font-family:"Arial"\,sans-serif'>&nbsp\;&nb
+	sp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 301 715 8592 US (Washington DC)
+	</span> <br><span style='font-family:"Arial"\,sans-serif'>&nbsp\;&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 312 626 6799 US (Chicago)</span> <br>
+	<span style='font-family:"Arial"\,sans-serif'>Meeting ID: 850 4289 8871</s
+	pan> <br><span style='font-family:"Arial"\,sans-serif'>Find your local num
+	ber: <a href="https://us02web.zoom.us/u/kbSkowZPig">https://us02web.zoom.u
+	s/u/kbSkowZPig</a></span> <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</
+	o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
