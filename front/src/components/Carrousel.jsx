@@ -16,7 +16,7 @@ const Carrousel = () => {
 
     return (
         <div>
-        <Titulo> PRODUCTOS DESTACADOS </Titulo>
+        <Titulo> FEATURED PRODUCTS </Titulo>
         
         <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
             <ol className="carousel-indicators">
